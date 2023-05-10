@@ -20,12 +20,12 @@ In this repository I have explored Open Source Data Generation Tools to Generate
   
   ![04_DG](https://github.com/pragyagupta333/DataGenerationTools/assets/125549428/3f96d63a-7df6-416b-b19b-652a1d8c2c10)
 
-  - Result : 
+  - Result :
   
   ![05_DG](https://github.com/pragyagupta333/DataGenerationTools/assets/125549428/0fbb02da-65bc-4186-b5ec-27bfa25fb562)
  
 
-- Data Generation Using [GenerteData](https://generatedata.com/)
+- Data Generation Using [GenerteData](https://generatedata.com/) *(click on image for better clarity)*
   - Choose Your Fields, Datatype, Format,etc  And Preview or Generate data
 
     ![01_DG](https://github.com/pragyagupta333/DataGenerationTools/assets/125549428/afb76eeb-6008-4585-9efa-794bc8850e43)
