@@ -1,6 +1,6 @@
 # Data Generation
 
-In this repository I have explored Data Generation Tools to Generate data related to SQL
+In this repository I have explored Open Source Data Generation Tools to Generate data related to SQL
 
 ## Table Of Contents
 
